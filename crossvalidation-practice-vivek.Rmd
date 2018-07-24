@@ -55,5 +55,8 @@ summary(lm.fit)
 ```{r}
 ## test
 4+4
+test3 <- 4
+test4 <- 6
+
 ```
 
