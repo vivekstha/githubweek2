@@ -61,5 +61,9 @@ test4 <- 6
 
 test5 <- 4
 test6 <- 6
+
+test7 <- "doing some testing"
+
+
 ```
 
