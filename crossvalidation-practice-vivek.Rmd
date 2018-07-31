@@ -58,5 +58,8 @@ summary(lm.fit)
 test3 <- 4
 test4 <- 6
 
+
+test5 <- 4
+test6 <- 6
 ```
 
